@@ -10,7 +10,7 @@
 
 		// Setup scene
 		const scene = new THREE.Scene();
-		scene.background = new THREE.Color(0x000000); // Black background (was 0xf0f0f0)
+		scene.background = new THREE.Color(0xffffff); // Black background (was 0xf0f0f0)
 
 		// Setup camera
 		const camera = new THREE.PerspectiveCamera(
